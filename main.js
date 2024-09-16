@@ -47,9 +47,9 @@ const text2 = "Dumbbell Only Workout: 3 Day Full Body Dumbbell Workout";
 const text3 = "6 Day Push/Pull/Legs (PPL) Powerbuilding Workout Split & Meal Plan";
 
 const imagesArray = [
-  "/asserts/contextImg/boxed-water-is-better-y-TpYAlcBYM-unsplash.jpg",
-  "/asserts/contextImg/jonathan-borba-lrQPTQs7nQQ-unsplash.jpg",
-  "/asserts/contextImg/meagan-stone-r951FqxHTao-unsplash.jpg"
+  "boxed-water-is-better-y-TpYAlcBYM-unsplash.jpg",
+  "jonathan-borba-lrQPTQs7nQQ-unsplash.jpg",
+  "meagan-stone-r951FqxHTao-unsplash.jpg"
 ]
 
 const textArray = [

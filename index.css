@@ -309,7 +309,7 @@ header {
 	position: relative;
 	overflow: hidden;
 	border-radius: 0 0 85% 85% / 30%;
-    background-image: url("./asserts/background/dtno17-10.jpg");
+    background-image: url("dtno17-10.jpg");
     background-blend-mode: multiply;
     background-color: #0201143d;
     background-position: center;
@@ -363,7 +363,7 @@ span {
     }
 
     header {
-        background-image: url("./asserts/background/thumbnail-1080_01.png");
+        background-image: url("thumbnail-1080_01.png");
         background-position: fixed;
         background-size: cover;
     }
@@ -467,27 +467,27 @@ img {
   }
   
   .card__image--flowers {
-    background-image: url("/asserts/contextImg/1.webp");
+    background-image: url("1.webp");
   }
   
   .card__image--river {
-    background-image: url("/asserts/contextImg/2.webp");
+    background-image: url("2.webp");
   }
   
   .card__image--record {
-    background-image: url("/asserts/contextImg/3.webp");
+    background-image: url("3.webp");
   }
   
   .card__image--fence {
-    background-image: url("/asserts/contextImg/4.webp");
+    background-image: url("4.webp");
   }
   
   .card__image--strong {
-    background-image: url("/asserts/contextImg/5.jpg");
+    background-image: url("5.jpg");
   }
 
   .card__image--recovery {
-    background-image: url("/asserts/contextImg/6.webp");
+    background-image: url("6.webp");
   }
   .card__title {
 
